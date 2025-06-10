@@ -259,6 +259,10 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Это произошло, потому что мы пытаемся перезаписать историю. 
 
+поправил*
+
+<img src = "img/hw_1_8.jpg" width = 100%>
+
 **Шаг 8.** Чтобы Git позволил нам это сделать, добавим флаг `force`:
 
 ```bash
