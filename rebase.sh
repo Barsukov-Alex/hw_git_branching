@@ -1,5 +1,5 @@
 #!/bin/bash
-# display command line options
+# display command line options 2 редакция
 
 count=1
 for param in "$@"; do
