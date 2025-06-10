@@ -293,6 +293,11 @@ Fast-forward
  1 file changed, 1 insertion(+), 2 deletions(-)
 ```
 
+
+
+
+<img src = "img/hw_1_9.jpg" width = 100%>
+
 *В качестве результата работы по всем заданиям приложите ссылку на .md-файл в вашем репозитории.*
  
 ----
